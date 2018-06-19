@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="helloer">Andrey</string>
+    <string name="morning">Good morning</string>
+    <string name="afternoon">Good afternoon</string>
+    <string name="evening">Good evening</string>
+    <string name="night">Good night</string>
+    <string name="greeting">Helloy Andrey!</string><!--Добавленная строка -->
+</resources>
